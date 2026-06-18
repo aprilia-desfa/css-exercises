@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.num1 {
+    background-color: rgb(247, 150, 133);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+#num2 {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+.but3 {
+    font-size: 24px;
+}
+#num4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}

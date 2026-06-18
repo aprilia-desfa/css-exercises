@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.monocrom, 
+.jangan {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+.monocrom {
+    color: white;
+    background-color: black;
+}
+.jangan {
+    background-color: yellow;
+}
